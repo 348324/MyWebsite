@@ -8,7 +8,7 @@
 
 
 ### HeaderTwo
-![alt text](ImageTwo.PNG "ImageTwo"){width=10px height=10px}
+![alt text](ImageTwo.PNG "ImageTwo"){width=10 height=10}
 [label](http://example.com)
 
 
