@@ -7,7 +7,7 @@
 ### Raising Canes 
 #### Rasing Canes Link
 [Raising Cane's Website](https://www.raisingcanes.com/home)
-#### Raising Canes Menu
+### Raising Canes Menu
 ![alt text](Menu.png "Figure 1 Menu")
 
 ### Citations
