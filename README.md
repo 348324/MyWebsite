@@ -10,11 +10,10 @@
 ### Raising Canes Menu
 ![alt text](Menu.png "Figure 1 Menu")
 
-| Tables        | Are           | Cool  |    
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|The Box Combo    |The Three Finger Combo|The Caniac Combo |The Sandwich Combo|The Kids Combo   |
+|4 Chicken Fingers|3 Chicken Fingers     |6 Chicken Fingers|3 Chicken Fingers |2 Chicken Fingers| 
+|$10.29           | $8.99                | $15.19          |$8.99             |$5.99            |     
+
 
 ### Citations
 #### [Figure 1 Yelp.com](https://www.yelp.com/biz/raising-cane-s-chicken-fingers-lakewood?osq=Raising+Canes)
