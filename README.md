@@ -9,4 +9,4 @@
 #### Rasing Canes Link
 [Raising Cane's Website](https://www.raisingcanes.com/home)
 #### Raising Canes Menu
-![alt text](Menu.png "Menu"){width=10 height=10}
+![alt text](Menu.png "Menu)
