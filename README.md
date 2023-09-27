@@ -4,13 +4,12 @@
 
 <img src="https://s3-media0.fl.yelpcdn.com/bphoto/vT7-B55sUk2AJfdOVZbyPg/1000s.jpg" alt="Italian Trulli">
 
-
 ### Raising Canes 
 #### Rasing Canes Link
 [Raising Cane's Website](https://www.raisingcanes.com/home)
 #### Raising Canes Menu
-![alt text](Menu.png "Menu")
+![alt text](Menu.png "Figure 1 Menu")
 
 ### Citations
 #### [Figure 1 Yelp.com](https://www.yelp.com/biz/raising-cane-s-chicken-fingers-lakewood?osq=Raising+Canes)
-####[Figure 2 EatDrinkSETX](https://www.eatdrinksetx.com/raising-canes-delicious-chicken-fingers-for-beaumont-port-arthur/)
+#### [Figure 2 EatDrinkSETX](https://www.eatdrinksetx.com/raising-canes-delicious-chicken-fingers-for-beaumont-port-arthur/)
