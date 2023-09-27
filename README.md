@@ -1,6 +1,6 @@
 ## Canes
 ### History of Canes
-<p>Established August 28 1996</p>
+<p>Established August 28, 1996. Founded by Todd Graves and Craig Silvey in Baton Rouge, Louisiana. </p>
 
 ![alt text](ImageOne.PNG "ImageOne"){width=10px height=10px}
 [label](http://example.com)
