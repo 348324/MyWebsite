@@ -11,6 +11,7 @@
 ![alt text](Menu.png "Figure 1 Menu")
 
 |The Box Combo    |The Three Finger Combo|The Caniac Combo |The Sandwich Combo|The Kids Combo   |
+|:----------------|:---------------------|:----------------|:-----------------|:----------------|
 |4 Chicken Fingers|3 Chicken Fingers     |6 Chicken Fingers|3 Chicken Fingers |2 Chicken Fingers| 
 |$10.29           | $8.99                | $15.19          |$8.99             |$5.99            |     
 
