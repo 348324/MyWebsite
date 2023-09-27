@@ -1,12 +1,12 @@
 ## Canes
-### Hitory of Canes
+### History of Canes
 <p>Established August 28 1996</p>
 
 ![alt text](ImageOne.PNG "ImageOne"){width=10px height=10px}
 [label](http://example.com)
 ```add 10x10  image ```
 
-
+<img src="https://s3-media0.fl.yelpcdn.com/bphoto/vT7-B55sUk2AJfdOVZbyPg/1000s.jpg" alt="Italian Trulli">
 
 
 ### HeaderTwo
