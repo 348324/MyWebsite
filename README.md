@@ -10,3 +10,7 @@
 [Raising Cane's Website](https://www.raisingcanes.com/home)
 #### Raising Canes Menu
 ![alt text](Menu.png "Menu")
+
+### Citations
+#### [Figure 1 Yelp.com](https://www.yelp.com/biz/raising-cane-s-chicken-fingers-lakewood?osq=Raising+Canes)
+####[Figure 2 EatDrinkSETX](https://www.eatdrinksetx.com/raising-canes-delicious-chicken-fingers-for-beaumont-port-arthur/)
