@@ -10,6 +10,12 @@
 ### Raising Canes Menu
 ![alt text](Menu.png "Figure 1 Menu")
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ### Citations
 #### [Figure 1 Yelp.com](https://www.yelp.com/biz/raising-cane-s-chicken-fingers-lakewood?osq=Raising+Canes)
 #### [Figure 2 EatDrinkSETX](https://www.eatdrinksetx.com/raising-canes-delicious-chicken-fingers-for-beaumont-port-arthur/)
